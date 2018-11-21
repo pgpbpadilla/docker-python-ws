@@ -1,0 +1,6 @@
+version: '3'
+services:
+  ws:
+    build:
+      context: .
+    command: echo Test
