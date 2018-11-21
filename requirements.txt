@@ -1,1 +1,4 @@
 invoke
+pytest-watch
+pytest
+pytest-aiohttp
